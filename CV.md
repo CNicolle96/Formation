@@ -4,7 +4,7 @@ Charlène Nicolle
 charlene.nicolle7@gmail.com  
 44140 La Planche  
 28 ans  
-[Photo d'identité](Photo anonyme.jpg)
+![Photo d'identité](https://github.com/CNicolle96/Formation/blob/main/Photo%20anonyme.jpg)
 
 #### **Formation**  
 2014-2018 : _Licence de Mathématiques_, [**Université Savoie-Mont Blanc**](https://www.univ-smb.fr/)  
