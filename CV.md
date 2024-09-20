@@ -1,8 +1,8 @@
 #### **Présentation**  
 Charlène Nicolle  
-0650027956  
+065002---- 
 charlene.nicolle7@gmail.com  
-44140 La Planche  
+44 Loire Atlantique 
 28 ans  
 ![Photo d'identité](https://github.com/CNicolle96/Formation/blob/main/Photo%20anonyme.jpg)
 
