@@ -1,8 +1,8 @@
 #### **Présentation**  
 Charlène Nicolle  
-065002---- 
+065002----   
 charlene.nicolle7@gmail.com  
-44 Loire Atlantique 
+44 Loire Atlantique   
 28 ans  
 ![Photo d'identité](https://github.com/CNicolle96/Formation/blob/main/Photo%20anonyme.jpg)
 
